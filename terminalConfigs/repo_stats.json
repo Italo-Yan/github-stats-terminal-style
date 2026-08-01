@@ -1,16 +1,16 @@
 {
-  "theme": "tokyonight",
+  "theme": "hacker",
   "headerStyle": "windows",
   "hostname": "github.com",
-  "typingSpeed": 100,
+  "typingSpeed": 60,
   "sourceType": "repo",
-  "target": "yogeshwaran01/github-stats-terminal-style",
+  "target": "Italo-Yan/nome-do-seu-repositorio",
   "commands": [
     "neofetch",
     "languages",
     "git-log"
   ],
   "customCommands": {
-    "cat note.txt": "Thank you for visiting this repository"
+    "cat note.txt": "Obrigado por visitar este repositório"
   }
 }
