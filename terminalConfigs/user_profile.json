@@ -1,20 +1,19 @@
 {
-  "theme": "dracula",
+  "theme": "hacker",
   "headerStyle": "mac",
-  "hostname": "github.com",
-  "typingSpeed": 100,
+  "hostname": "italoyan.dev",
+  "typingSpeed": 60,
   "sourceType": "user",
-  "target": "yogeshwaran01",
+  "target": "Italo-Yan",
   "commands": [
     "whoami",
     "neofetch",
     "languages",
     "top-repos",
-    "ps",
     "uptime",
     "exit"
   ],
   "customCommands": {
-    "cat profile.txt": "A Chemical Engineer building software 😊"
+    "cat about.txt": "Backend Developer focado em .NET, Node.js e TypeScript"
   }
 }
